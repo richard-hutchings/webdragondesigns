@@ -1,5 +1,6 @@
 # webdragondesigns
-Web Dragon Website
+## Web Dragon Website
+### Made with Bootstrap components. Carousel, Cards, Accordian.
 
 Website with links to Created Retro Games, Website and Apps.
 
